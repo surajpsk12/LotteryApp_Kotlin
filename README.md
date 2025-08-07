@@ -53,7 +53,7 @@ com.surajvanshsv.lotteryapp/
 1.  **Clone this repo:**
     
 ```
-    git clone https://github.com/your-github-username/LotteryApp.git 
+    git clone https://github.com/surajpsk12/LotteryApp_Kotlin.git
     cd LotteryApp
 ```
 
